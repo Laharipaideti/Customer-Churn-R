@@ -168,6 +168,7 @@ The script auto-installs required packages:
 
 ## 📊 Expected Output Sample
 
+### Console Output
 ```
 🎯 BUSINESS METRICS
 ✓ Model Accuracy: 85.3%
@@ -184,6 +185,17 @@ The script auto-installs required packages:
 ✓ Medium Risk Customers: 28.5% (602 customers)
 ✓ Low Risk Customers: 56.3% (1,190 customers)
 ```
+
+### Visualization result
+
+**Revenue at Risk by Customer Segment:**
+
+![Revenue at Risk by Customer Segment](https://via.placeholder.com/800x600?text=Revenue+at+Risk+by+Customer+Segment)
+
+This visualization shows:
+- **High Risk:** 13.51% of revenue (immediate action needed)
+- **Low Risk:** 77.05% of revenue (stable customers)
+- **Medium Risk:** 9.43% of revenue (promotional offers)
 
 ---
 
