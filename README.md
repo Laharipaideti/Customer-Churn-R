@@ -190,7 +190,7 @@ The script auto-installs required packages:
 
 **Revenue at Risk by Customer Segment:**
 
-![Revenue at Risk by Customer Segment](https://via.placeholder.com/800x600?text=Revenue+at+Risk+by+Customer+Segment)
+![Revenue at Risk by Customer Segment]<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/73aaf12e-ce39-4474-a46f-46f49f815c05" />
 
 This visualization shows:
 - **High Risk:** 13.51% of revenue (immediate action needed)
